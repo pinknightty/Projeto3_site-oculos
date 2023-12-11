@@ -1,0 +1,82 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.carousel-item img {
+   width: 100%;
+}
+
+.navbar {
+    background-color: wheat;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: rgb(78, 182, 65);
+    color: #000000;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: black;
+}
+
+.navbar-toggler {
+    background-color: wheat;
+}
+
+
+.section-title {
+    font-family: Pacifico, cursive;
+}
+
+#sobre-nos, #catalogo {
+    background-color: wheat;
+}
+
+#trabalhe-conosco {
+    background-color: white;
+}
+
+.text-colored {
+    color: rgb(78, 182, 65);
+}
+
+.nav-cardapio .nav-link.active,
+#trabalhe-conosco button {
+    background-color: rgb(78, 182, 65);
+    color:wheat;
+}
+
+.nav-cardapio .nav-link:hover {
+    color:rgb(78, 182, 65);
+}
+
+.social-links li  {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}  
+
+#lojas {
+    background-color: white;
+    
+}
+
+#trabalhe-conosco {
+    background-color: wheat;
+}
+
+.img-responsive {
+    width: 100%;
+    height: 100%;
+}
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
