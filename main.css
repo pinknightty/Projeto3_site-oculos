@@ -62,6 +62,11 @@ body {
     text-decoration: none;
 }  
 
+#img-loja {
+    height: 250px;
+    padding-right: 30px;
+}
+
 #lojas {
     background-color: white;
     
